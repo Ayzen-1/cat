@@ -1,10 +1,9 @@
+catboost
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-catboost
-xgboost
 statsmodels
 jupyter
 scipy
